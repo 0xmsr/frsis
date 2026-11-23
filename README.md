@@ -25,7 +25,7 @@ Simpan alamat sulit dicari beserta foto rumah, patokan, dan petunjuk arah.
 - [Persyaratan Teknis](#persyaratan-teknis)
 - [Struktur Proyek](#struktur-proyek)
 - [Keterbatasan](#keterbatasan)
-- [Lisensi](#lisensi)
+
 ## Ringkasan
  
 Kurir sering menghadapi alamat yang sulit ditemukan: gang sempit, kompleks tanpa penanda jelas, atau rumah tanpa nomor. FRSIS membantu mendokumentasikan alamat tersebut sekali, lalu memakainya kembali pada pengantaran berikutnya.
