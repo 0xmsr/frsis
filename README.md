@@ -149,7 +149,5 @@ Tanpa framework, tanpa *package manager*, dan tanpa langkah instalasi.
 - Maksimal 4 foto per alamat.
 - Tidak ada integrasi langsung dengan aplikasi atau API J&T.
 - Pembacaan berkas Excel memerlukan koneksi internet; gunakan CSV untuk penggunaan offline.
-## Lisensi
- 
-Belum ditentukan. Tambahkan berkas `LICENSE` sebelum distribusi publik.
+
  
